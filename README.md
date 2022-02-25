@@ -10,4 +10,4 @@ Clean SAI2 Activator
 # Features
 - 100% Open Source
 - Very fast and simple
-- Not made by someone who makes cheats/hacks for osu
+- Not made by someone who develops cheats/hacks for osu
