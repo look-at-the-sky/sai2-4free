@@ -1,5 +1,5 @@
 # sai2-4free
-Clean SAI2 Activator
+Clean SAI2* Activator
 
 # Usage
 1. Download main.zip
@@ -11,3 +11,7 @@ Clean SAI2 Activator
 - 100% Open Source
 - Very fast and simple
 - Not made by someone who develops cheats/hacks for osu
+
+
+
+*Paint Tool SAI 2, by SYSTEMAX Software
