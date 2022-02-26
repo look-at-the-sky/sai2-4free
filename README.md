@@ -14,4 +14,4 @@ Clean SAI2* Activator
 
 
 
-*Paint Tool SAI 2, by SYSTEMAX Software
+* Paint Tool SAI 2, by SYSTEMAX Software
