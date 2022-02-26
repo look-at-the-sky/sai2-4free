@@ -1,5 +1,5 @@
 # sai2-4free
-Clean SAI2* Activator
+Clean SAI2† Activator
 
 # Usage
 1. Download main.zip
@@ -14,4 +14,4 @@ Clean SAI2* Activator
 
 
 
-* Paint Tool SAI 2, by SYSTEMAX Software
+†Paint Tool SAI 2, by SYSTEMAX Software
