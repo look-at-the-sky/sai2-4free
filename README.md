@@ -8,7 +8,7 @@ Patch SAI2† with a Hex Editor
 4. Search and Replace the following and you're done.
 
 48 83 C3 04 0F C8 44 03 D8 48 3B D9 7C F0
-Becomes :
+<br/>Becomes :<br/>
 41 BB 6A B8 9E DF EB 06 90 90 90 90 90 90
 
 
